@@ -1,12 +1,13 @@
-var norma = {
+"use strict";
+const norma = {
     breed: "Silkie",
     eggsPerWeek: 4,
     name: "Norma",
-    age: 2
+    age: 2,
 };
-var juniper = {
+const juniper = {
     breed: "Silkie",
     eggsPerWeek: 5,
     name: "Juniper",
-    age: 1
+    age: 1,
 };
